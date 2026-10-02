@@ -1,5 +1,5 @@
 def greet():
-    print("Hello from GitHub Actions!")
+    print("Hello from GitHub Actions! 🚀")
 
 
 if __name__ == "__main__":
